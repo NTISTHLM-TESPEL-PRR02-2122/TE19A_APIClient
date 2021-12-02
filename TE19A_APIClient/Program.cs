@@ -17,6 +17,3 @@ Console.WriteLine($"Name: {poke.name}   id: {poke.id}");
 Console.WriteLine(poke.held_items[0].item.name);
 
 Console.ReadLine();
-
-//Blajj
-//Blajj2
