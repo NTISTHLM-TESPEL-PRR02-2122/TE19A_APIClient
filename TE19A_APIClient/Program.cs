@@ -19,3 +19,4 @@ Console.WriteLine(poke.held_items[0].item.name);
 Console.ReadLine();
 
 //Blajj
+//Blajj2
